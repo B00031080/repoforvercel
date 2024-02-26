@@ -13,6 +13,7 @@
 	</main>
 
 	<footer>
+		<p> this is only for dev.</p>
 		<p>Svelte + StackBlitz + Vercel is so convenient.</p>
 		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
 	</footer>
